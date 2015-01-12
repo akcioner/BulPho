@@ -25,9 +25,9 @@ map key 86 PLUS
 ### ROW 1
 
 key GRAVE {
-    label:                              '`'
-    base:                               '`'
-    shift, capslock:                    '~'
+    label:                              'u0427'
+    base:                               'u0447'
+    shift, capslock:                    'u0427'
     ralt:                               '`'
     ralt+shift:                         '~'
 }
